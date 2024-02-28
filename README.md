@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HeyThisHaku
-- 👀 I’m interested in Devops & DevSecOps, Programming & Cyber Security Stuff
-- 🌱 I’m currently learning about blue team domain in cyber security
-- 💞️ I’m looking to collaborate on project develop application or system & Evaluate system in security way
-- 📫 How to reach me email at sandikabala@gmail.com
+- 👋 Hi, It's me @HeyThisHaku
+- 👀 I’m interested in Devops, DevSecOps & Cyber Security 
+- 🌱 Really love Cyber Security path way specially Blue Team (as SOC & Forensic)
+- 💞️ I’m open to collaborate on project develop application or system & Evaluate system in security way
+- 📫 You can reach me email at sandikabala@gmail.com
 
